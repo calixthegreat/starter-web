@@ -17,3 +17,6 @@ Sample website with plenty of files for demos
 ## How to Contribute
 
 You can't! Hahaahhaha!
+
+### Copyright
+2021. Calix the great
